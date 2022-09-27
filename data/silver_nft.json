@@ -1,0 +1,10 @@
+{
+    "id": 0,
+    "description": "Closed and Open beta access, with preference plus one-time airdrop of the Silver Starter Pack",
+    "image": "https://gateway.pinata.cloud/ipfs/QmebM7y9QJf6QcmKN3gRNW4gnktZHP4BQYiBs3EYUa31mk",
+    "name": "Psyber-X Silver Access Pass",
+    "attributes": [{
+        "trait_type": "Access Pass",
+        "value": "Silver"
+    }]
+}
